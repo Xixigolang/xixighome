@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/Xixigolang/xixighome",
 
   docsDir: "src",
 
@@ -69,6 +69,8 @@ export default hopeTheme({
   },
 
   // These features are enabled for demo, only preserve features you need here
+  // Estas funciones están habilitadas para la demostración, solo conserve las funciones que necesita aquí
+  //这些功能仅用于演示，此处仅保留您需要的功能
   markdown: {
     align: true,
     attrs: true,

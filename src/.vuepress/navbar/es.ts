@@ -1,9 +1,9 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const enNavbar = navbar([
-  "/es/",
-  "/portfolio",
-  "/demo/",
+export const esNavbar = navbar([
+  "/",
+  "/es/portfolio",
+  "/es/demo/",
   {
     text: "Guide",
     icon: "lightbulb",

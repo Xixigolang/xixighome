@@ -1,7 +1,7 @@
 ---
 home: true
 icon: house
-title: 主页
+title: inicio
 
 
 heroImage: https://raw.githubusercontent.com/Xixigolang/Database/refs/heads/main/xixighome/profile/profile1none.png
@@ -12,7 +12,7 @@ bgImageStyle:
   background-attachment: fixed
 heroText: xixi
 
-tagline: 你可以在这里放置或是整个项目的描述。
+tagline: Puedes poner aquí una descripción de todo el proyecto.
 actions:
   - text: 使用指南
     icon: lightbulb
